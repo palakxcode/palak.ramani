@@ -22,7 +22,7 @@ export default function BentoPortfolio() {
             I'm Palak
           </h2>
           <p className="text-blue-100 mb-4 sm:mb-6 text-sm sm:text-base lg:text-lg leading-relaxed line-clamp-3">
-            A modern, scalable e-commerce solution built with Next.js, TypeScript, and Stripe integration.
+            CSE undergrad who is debugging her life to get a better life quality ;)
           </p>
           <div className="flex flex-wrap gap-2">
             <span className="px-2 sm:px-3 py-1 bg-blue-500/30 text-blue-200 rounded-full text-xs sm:text-sm border border-blue-400/20">
