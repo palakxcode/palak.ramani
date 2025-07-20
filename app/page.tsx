@@ -22,17 +22,20 @@ export default function BentoPortfolio() {
             I'm Palak
           </h2>
           <p className="text-blue-100 mb-4 sm:mb-6 text-sm sm:text-base lg:text-lg leading-relaxed line-clamp-3">
-            CSE undergrad who is debugging her life to get a better life quality ;)
+            CSE undergrad who is debugging her space to get a better life quality ;)
           </p>
           <div className="flex flex-wrap gap-2">
             <span className="px-2 sm:px-3 py-1 bg-blue-500/30 text-blue-200 rounded-full text-xs sm:text-sm border border-blue-400/20">
-              Next.js
+              Data Analytics
             </span>
             <span className="px-2 sm:px-3 py-1 bg-blue-500/30 text-blue-200 rounded-full text-xs sm:text-sm border border-blue-400/20">
-              TypeScript
+              App Dev
             </span>
             <span className="px-2 sm:px-3 py-1 bg-blue-500/30 text-blue-200 rounded-full text-xs sm:text-sm border border-blue-400/20">
-              Stripe
+              AWS
+            </span>
+            <span className="px-2 sm:px-3 py-1 bg-blue-500/30 text-blue-200 rounded-full text-xs sm:text-sm border border-blue-400/20">
+              Cloud
             </span>
           </div>
         </div>
@@ -40,8 +43,11 @@ export default function BentoPortfolio() {
         {/* Quick Stats */}
         <div className="lg:col-span-3 lg:row-span-2 bg-gradient-to-br from-slate-900/60 to-indigo-900/40 backdrop-blur-xl border border-slate-500/20 rounded-2xl sm:rounded-3xl p-4 sm:p-6 shadow-2xl shadow-slate-500/10 hover:shadow-slate-500/20 transition-all duration-300 glow-slate">
           <div className="text-xs sm:text-sm text-slate-300 mb-2 uppercase tracking-wider truncate">Experience</div>
-          <div className="text-2xl sm:text-3xl font-bold text-white mb-1 truncate">5+ Years</div>
-          <div className="text-slate-300 text-xs sm:text-sm line-clamp-2">Building digital experiences</div>
+          <div className="text-2xl sm:text-3xl font-bold text-white mb-1 truncate">App dev Intern, Jan'25 - March'25</div>
+          <div className="text-slate-300 text-xs sm:text-sm line-clamp-2">KabirAI</div>
+          <br />
+          <div className="text-2xl sm:text-3xl font-bold text-white mb-1 truncate">Technical Head</div>
+          <div className="text-slate-300 text-xs sm:text-sm line-clamp-2">Android Club, VIT Chennai</div>
         </div>
 
         {/* Skills Grid */}
